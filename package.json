@@ -1,0 +1,13 @@
+{
+  "title": "Radiotube",
+  "name": "radiotube",
+  "version": "1.0.0",
+  "description": "An add-on for internet radio sites to add support for linking to YouTube videos for the current song.",
+  "main": "index.js",
+  "author": "Andy Schrage",
+  "engines": {
+    "firefox": ">=38.0a1",
+    "fennec": ">=38.0a1"
+  },
+  "license": "MIT"
+}

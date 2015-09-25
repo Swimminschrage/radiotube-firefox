@@ -1,0 +1,26 @@
+/* Slacker specific */
+body section#player #bar .adjust {
+  width: 200px;
+}
+
+/* Pandora specific */
+body #playerBar .middlecolumn .buttons {
+    width: 348px;
+}
+
+/* Pandora specific */
+body #playerBar .middlecolumn .buttons .radiotubebutton {
+    float: left;
+    margin: 12px 23px 12px 8px;
+    width: 29px;
+    height: 20px;
+}
+
+.radiotubebutton {
+  top: 22px;
+  cursor: pointer;
+  width: 20px;
+  height: 20px;
+  background-repeat: no-repeat;
+  background-size: contain;
+}
