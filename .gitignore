@@ -1,1 +1,4 @@
 contentscript_credentials.js
+
+.git/*
+.idea/*
